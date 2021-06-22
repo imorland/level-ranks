@@ -25,5 +25,5 @@ return [
     new Extend\Locales(__DIR__.'/resources/locale'),
 
     (new Extend\Settings())
-        ->serializeToForum('reflar-level-ranks.pointsText', 'reflar-level-ranks.pointsText'),
+        ->serializeToForum('ianm-level-ranks.pointsText', 'ianm-level-ranks.pointsText'),
 ];
