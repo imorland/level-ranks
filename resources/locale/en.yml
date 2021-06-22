@@ -4,7 +4,7 @@ ianm-level-ranks:
       levelText: Enter the text to be displayed for the points (e.g. Rank, Level)
   forum:
     desc:
-      expText: EXP
+      expText: "{expTotal} EXP"
   lib:
     defaults:
       level: Level
