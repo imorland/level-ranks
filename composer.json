@@ -9,6 +9,7 @@
         "xp"
     ],
     "type": "flarum-extension",
+    "license": "MIT",
     "authors": [
         {
             "name": "Shahiem Seymor",
