@@ -1,7 +1,6 @@
-reflar-level-ranks:
+ianm-level-ranks:
   admin:
     settings:
-      title: Level Ranks Settings
       levelText: Enter the text to be displayed for the points (e.g. Rank, Level)
   forum:
     desc:

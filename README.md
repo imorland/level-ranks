@@ -1,26 +1,21 @@
 
-# Level ranks by ReFlar
+# Level ranks
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ReFlar/level-ranks/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/reflar/level-ranks.svg)](https://github.com/ReFlar/level-ranks)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/imorland/level-ranks/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/ianm/level-ranks.svg)](https://github.com/imorland/level-ranks)
 
 Add a level/expierence bar to your flarum Forum.
+
+This is a sponsored revive of [Reflar's Level Ranks](https://github.com/ReFlar/level-ranks). No active development is planned to take place, unless specifically requested and sponsored.
 
 ### Installation :balloon:
 
 Install it with composer:
 
 ```sh
-composer require reflar/level-ranks
+composer require ianm/level-ranks:"*"
 ```
-
-### Issues 🐛
-
-[Open an issue on Github](https://github.com/ReFlar/level-ranks/issues)
-
-Suggestions? Please feel free to give me some suggestions
 
 ### Links 🔗
 
-- [Github](https://github.com/ReFlar/level-ranks)
-- [Packagist](https://packagist.org/packages/reflar/level-ranks)
-- [Buy me a house with $1 💰](https://paypal.me/shahiemseymor)
+- [Github](https://github.com/imorland/level-ranks)
+- [Packagist](https://packagist.org/packages/ianm/level-ranks)

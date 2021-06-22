@@ -5,7 +5,7 @@ import LevelBar from './components/LevelBar';
 
 app.initializers.add('reflar-level-ranks', app => {
 	extend(PostUser.prototype, 'view', function (view) {
-    const user = this.props.post.user();
+    const user = this.attrs.post.user();
 
     if (!user) return;
 
