@@ -1,11 +1,10 @@
 <?php
 
 /*
- * This file is part of reflar/level-ranks.
+ * This file is part of ianm/level-ranks.
  *
  * Copyright (c) ReFlar.
- *
- * https://reflar.redevs.org
+ * Copyright (c) IanM.
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
