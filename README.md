@@ -5,7 +5,9 @@
 
 Add a level/expierence bar to your flarum Forum.
 
-This is a sponsored revive of [Reflar's Level Ranks](https://github.com/ReFlar/level-ranks). No active development is planned to take place, unless specifically requested and sponsored.
+This revive of [Reflar's Level Ranks](https://github.com/ReFlar/level-ranks) was sponsored by [pkernstock's](https://discuss.flarum.org/u/pkernstock) [blog](https://patrik.kernstock.net/). 
+
+No further development is planned to take place, unless specifically requested and sponsored.
 
 ### Installation :balloon:
 
@@ -19,3 +21,4 @@ composer require ianm/level-ranks:"*"
 
 - [Github](https://github.com/imorland/level-ranks)
 - [Packagist](https://packagist.org/packages/ianm/level-ranks)
+
